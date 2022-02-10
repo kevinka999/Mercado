@@ -1,2 +1,2 @@
-# Mercado
-Sistema para gerenciamento de pedidos utilizando ReactJs e AdonisJs.
+# Summary
+Manage your market with this application built in React.js and Adonis.js
